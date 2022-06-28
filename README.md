@@ -21,6 +21,8 @@
     <li><a href="#test-setvote-function">Test setVote function</a></li>
     <li><a href="#test-tallyvotes-function">Test tallyVotes function</a></li>
     <li><a href="#testing-interaction-functions-from-every-workflow-statuses">Testing interaction functions from every workflow statuses</a></li>
+    <li><a href="#gas-report">Gas report</a></li>
+
   </ol>
 </details>
 
@@ -223,5 +225,15 @@ Finally I test all the interaction functions that depend on the workflow status 
         ✔ should not add proposal, revert
         ✔ should not set vote, revert
         ✔ should not tally votes, revert
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- Gas Report -->
+## Gas Report
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/GasPeporter.PNG" alt="gasReport" width="1070" height="545">
+  </a>
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
